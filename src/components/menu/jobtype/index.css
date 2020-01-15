@@ -1,0 +1,10 @@
+.jobTypeStyle {
+  margin-bottom: 20px;
+}
+
+.jobTypeSelect {
+  border: 2px solid gray;
+  height: 30px;
+  width: 200px;
+  font-size: 14px;
+}

@@ -1,0 +1,11 @@
+.contentStyle {
+  padding: 10px;
+}
+
+.jobListStyle {
+  width: 700px;
+  position: absolute;
+  left: 27%;
+  margin-left: 10px;
+  margin-top: 20px;
+}

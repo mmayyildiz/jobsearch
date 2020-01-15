@@ -1,0 +1,10 @@
+.keywordStyle {
+  margin-bottom: 20px;
+}
+
+.keywordInput {
+  border: 2px solid gray;
+  height: 30px;
+  width: 200px;
+  font-size: 14px;
+}

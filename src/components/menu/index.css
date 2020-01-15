@@ -1,0 +1,16 @@
+.menuStyle {
+  max-width: 500px;
+  float: left;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 8px 8px 8px 8px #888888;
+  position: fixed;
+  bottom: 10px;
+  top: 90px
+}
+
+.menuItem {
+  margin-bottom: 20px;
+}

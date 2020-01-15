@@ -1,0 +1,18 @@
+.salaryStyle {
+  margin-bottom: 20px;
+}
+
+@mixin salaryInput {
+  border: 2px solid gray;
+  height: 30px;
+  width: 100px;
+  font-size: 14px;
+}
+
+.minimumSalaryInput {
+  @include salaryInput;
+}
+.maximumSalaryInput {
+  @include salaryInput;
+  margin-left: 5px;
+}

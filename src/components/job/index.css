@@ -1,0 +1,38 @@
+.jobStyle {
+  border: 1px solid gray;
+  border-radius: 7px;
+  max-width: 700px;
+  min-height: 300px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 5px 10px 10px 8px #888888;
+}
+
+.jobTitle {
+  color: cornflowerblue;
+  font-size: 26px;
+}
+
+.employerName {
+  color: cornflowerblue;
+  display: inline;
+  font-size: 16px;
+}
+
+.publishedDate {
+  display: inline;
+  font-size: 17px;
+}
+
+.expiredDate {
+  display: inline;
+  float: right;
+  font-size: 17px;
+  color: darkgoldenrod;
+}
+
+.seeMoreDetail {
+  color: dodgerblue;
+  cursor: pointer;
+}

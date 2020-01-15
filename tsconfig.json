@@ -1,0 +1,33 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "watch": true,
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "lib": ["es6", "dom"],
+    "types": ["react", "react-dom", "styled-components", "prop-types"]
+    // "moduleResolution": "node",
+    // "rootDirs": ["src", "stories"],
+    // "allowJs": true,
+    // "baseUrl": "./"
+    // "paths": {
+    //   "components/*": ["src"]
+    // }
+    // "forceConsistentCasingInFileNames": true,
+    // "noImplicitReturns": true,
+    // "noImplicitThis": true,
+    // "noImplicitAny": true,
+    // "strictNullChecks": true,
+    // "suppressImplicitAnyIndexErrors": true,
+    // "noUnusedLocals": true,
+    // "declaration": true,
+    // "allowSyntheticDefaultImports": true,
+    // "experimentalDecorators": true,
+    // "emitDecoratorMetadata": true,
+    // "removeComments": true,
+  },
+  "exclude": ["node_modules"]
+}
